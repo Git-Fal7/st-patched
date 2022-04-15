@@ -1,0 +1,13 @@
+diff --git a/home/faleh/st/config.def.h b/./config.def.h
+index 91ab8ca..9418655 100644
+--- a/home/faleh/st/config.def.h
++++ b/./config.def.h
+@@ -5,7 +5,7 @@
+  *
+  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
+  */
+-static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
++static char *font = "Monospace:pixelsize=16:antialias=true:autohint=true";
+ static int borderpx = 2;
+ 
+ /*
